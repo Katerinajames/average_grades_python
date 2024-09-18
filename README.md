@@ -1,1 +1,1 @@
-A class average calculation in python programming language
+A class average grade  calculation in python programming language
